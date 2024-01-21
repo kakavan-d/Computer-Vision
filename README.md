@@ -1,4 +1,4 @@
-# Computer-Vision
+# Deep Learning, Computer-Vision
 
 ### Yolov5_Object_Detection:
 This project is an example of Obeject Detection using YOLO (You Only Look Once) Version 5.
